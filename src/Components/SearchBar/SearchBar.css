@@ -1,0 +1,26 @@
+.search{
+width:100%;
+padding:18px 25px;
+
+border-radius:50px;
+
+border:2px solid #f2d6e5;
+
+outline:none;
+
+font-size:16px;
+
+background:white;
+
+transition:.3s;
+
+margin-bottom:30px;
+}
+
+.search:focus{
+
+border-color:#d86b9a;
+
+box-shadow:0 0 12px rgba(216,107,154,.15);
+
+}

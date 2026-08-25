@@ -1,0 +1,59 @@
+.myreviews-page{
+  max-width:900px;
+  margin:40px auto;
+  padding:20px;
+}
+
+.myreviews-card{
+  background:white;
+  border-radius:20px;
+  padding:30px;
+  box-shadow:0 8px 25px rgba(0,0,0,.08);
+}
+
+.myreviews-card h2{
+  color:#d86b9a;
+  margin-bottom:25px;
+}
+
+.review-item{
+  background:#fff7fb;
+  padding:20px;
+  border-radius:15px;
+  margin-bottom:15px;
+}
+
+.review-item h4{
+  margin:0 0 10px;
+  color:#d86b9a;
+}
+
+.review-stars{
+  color:#ffb400;
+  font-size:20px;
+}
+
+.review-text{
+  color:#555;
+  margin-top:10px;
+}
+
+
+.no-review{
+  text-align:center;
+  color:#777;
+  padding:30px;
+}
+
+
+@media(max-width:600px){
+
+.myreviews-page{
+ padding:15px;
+}
+
+.myreviews-card{
+ padding:20px;
+}
+
+}

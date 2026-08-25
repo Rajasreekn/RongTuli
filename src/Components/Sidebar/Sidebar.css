@@ -1,0 +1,115 @@
+.sidebar-wrapper{
+  position:relative;
+  flex-shrink:0;
+}
+
+/* Hamburger */
+
+.menu-btn{
+  border:none;
+  background:transparent;
+  font-size:28px;
+  color:#222;
+  cursor:pointer;
+  padding:8px;
+  margin-right:10px;
+  flex-shrink:0;
+  transition:.3s;
+}
+
+.menu-btn:hover{
+  color:#d86b9a;
+}
+
+/* Drawer */
+
+.sidebar{
+  position:absolute;
+  top:50px;
+  left:0;
+
+  width:240px;
+  max-height:70vh;
+
+  overflow-y:auto;
+
+  background:#fff;
+  border-radius:14px;
+
+  box-shadow:0 10px 30px rgba(0,0,0,.12);
+
+  padding:10px;
+
+  display:none;
+
+  z-index:9999;
+}
+
+.sidebar.open{
+  display:block;
+}
+
+/* Scrollbar */
+
+.sidebar::-webkit-scrollbar{
+  width:6px;
+}
+
+.sidebar::-webkit-scrollbar-track{
+  background:#f7f7f7;
+  border-radius:20px;
+}
+
+.sidebar::-webkit-scrollbar-thumb{
+  background:#d86b9a;
+  border-radius:20px;
+}
+
+/* Buttons */
+
+.sidebar button{
+  width:100%;
+
+  background:#fff;
+
+  border:none;
+
+  text-align:left;
+
+  padding:12px 14px;
+
+  margin-bottom:6px;
+
+  border-radius:10px;
+
+  color:#d86b9a;
+
+  font-size:15px;
+
+  font-weight:600;
+
+  cursor:pointer;
+
+  transition:.25s;
+}
+
+.sidebar button:hover{
+  background:#ffe8f2;
+  color:#d86b9a;
+}
+
+.sidebar button.active{
+  background:#d86b9a;
+  color:#fff;
+}
+
+/* Mobile */
+
+@media(max-width:768px){
+
+  .sidebar{
+    width:220px;
+    max-height:60vh;
+  }
+
+}
