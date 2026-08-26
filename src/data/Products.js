@@ -6,7 +6,7 @@ const products = [
   category:"Fridge Magnets",
   price:70,
   oldPrice:90,
-  image:"/src/assets/Products/bat.jpg",
+  image:"/products/bat.jpg",
   stock:true,
   details:{
     material:"Wood",
@@ -23,7 +23,7 @@ const products = [
   category:"Coasters",
   price:320,
   oldPrice:370,
-  image:"/src/assets/Products/batman.jpg",
+  image:"/products/batman.jpg",
   stock:true,
   details:{
     material:"Wooden Board",
@@ -40,7 +40,7 @@ const products = [
   category:"Keychains",
   price:40,
   oldPrice:55,
-  image:"/src/assets/Products/blessed.jpg",
+  image:"/products/blessed.jpg",
   stock:true,
   details:{
     material:"Acrylic",
@@ -57,7 +57,7 @@ const products = [
   category:"Painted Bottles",
   price:289,
   oldPrice:329,
-  image:"/src/assets/Products/buddha.jpg",
+  image:"/products/buddha.jpg",
   stock:true,
   details:{
     material:"Glass Bottle",
@@ -74,7 +74,7 @@ const products = [
   category:"Canvas",
   price:385,
   oldPrice:435,
-  image:"/src/assets/Products/canvas.jpg",
+  image:"/products/canvas.jpg",
   stock:true,
   details:{
     material:"Canvas",
@@ -91,7 +91,7 @@ const products = [
   category:"Keychains",
   price:40,
   oldPrice:55,
-  image:"/src/assets/Products/cat.jpg",
+  image:"/products/cat.jpg",
   stock:true,
   details:{
     material:"Acrylic",
@@ -108,7 +108,7 @@ const products = [
   category:"Keychains",
   price:35,
   oldPrice:50,
-  image:"/src/assets/Products/cherry.jpg",
+  image:"/products/cherry.jpg",
   stock:true,
   details:{
     material:"Acrylic",
@@ -125,7 +125,7 @@ const products = [
   category:"Coasters",
   price:420,
   oldPrice:465,
-  image:"/src/assets/Products/dadmom.jpg",
+  image:"/products/dadmom.jpg",
   stock:true,
   details:{
     material:"Wooden Board",
@@ -142,7 +142,7 @@ const products = [
   category:"Keychains",
   price:40,
   oldPrice:55,
-  image:"/src/assets/Products/evileye.jpg",
+  image:"/products/evileye.jpg",
   stock:true,
   details:{
     material:"Acrylic",
@@ -159,7 +159,7 @@ const products = [
   category:"Mini Canvas",
   price:310,
   oldPrice:350,
-  image:"/src/assets/Products/gojo.jpg",
+  image:"/products/gojo.jpg",
   stock:true,
   details:{
     material:"Canvas",
@@ -176,7 +176,7 @@ const products = [
   category:"Fridge Magnets",
   price:70,
   oldPrice:90,
-  image:"/src/assets/Products/jaggu.jpg",
+  image:"/products/jaggu.jpg",
   stock:true,
   details:{
     material:"Wood",
@@ -193,7 +193,7 @@ const products = [
   category:"Keychains",
   price:80,
   oldPrice:100,
-  image:"/src/assets/Products/keychain.jpg",
+  image:"/products/keychain.jpg",
   stock:true,
   details:{
     material:"Acrylic",
@@ -210,7 +210,7 @@ const products = [
   category:"Bookmarks",
   price:55,
   oldPrice:75,
-  image:"/src/assets/Products/lana.jpg",
+  image:"/products/lana.jpg",
   stock:true,
   details:{
     material:"Laminated Paper",
@@ -227,7 +227,7 @@ const products = [
   category:"Fridge Magnets",
   price:45,
   oldPrice:60,
-  image:"/src/assets/Products/lemon.jpg",
+  image:"/products/lemon.jpg",
   stock:true,
   details:{
     material:"Wood",
@@ -244,7 +244,7 @@ const products = [
   category:"Tote Bags",
   price:340,
   oldPrice:380,
-  image:"/src/assets/Products/lotustote.jpg",
+  image:"/products/lotustote.jpg",
   stock:true,
   details:{
     material:"Canvas",
@@ -261,7 +261,7 @@ const products = [
   category:"Keychains",
   price:49,
   oldPrice:65,
-  image:"/src/assets/Products/messi.jpg",
+  image:"/products/messi.jpg",
   stock:true,
   details:{
     material:"Acrylic",
@@ -278,7 +278,7 @@ const products = [
   category:"Painted Frames",
   price:250,
   oldPrice:285,
-  image:"/src/assets/Products/messiframe.jpg",
+  image:"/products/messiframe.jpg",
   stock:true,
   details:{
     material:"Wooden Frame",
@@ -295,7 +295,7 @@ const products = [
   category:"Bookmarks",
   price:50,
   oldPrice:70,
-  image:"/src/assets/Products/nazar.jpg",
+  image:"/products/nazar.jpg",
   stock:true,
   details:{
     material:"Laminated Paper",
@@ -312,7 +312,7 @@ const products = [
   category:"Bookmarks",
   price:69,
   oldPrice:90,
-  image:"/src/assets/Products/oranges.jpg",
+  image:"/products/oranges.jpg",
   stock:true,
   details:{
     material:"Laminated Paper",
@@ -329,7 +329,7 @@ const products = [
   category:"Keychains",
   price:40,
   oldPrice:55,
-  image:"/src/assets/Products/phool.jpg",
+  image:"/products/phool.jpg",
   stock:true,
   details:{
     material:"Acrylic",
@@ -346,7 +346,7 @@ const products = [
   category:"Coasters",
   price:280,
   oldPrice:315,
-  image:"/src/assets/Products/shivji.jpg",
+  image:"/products/shivji.jpg",
   stock:true,
   details:{
     material:"Wood",
@@ -363,7 +363,7 @@ const products = [
   category:"Tote Bags",
   price:350,
   oldPrice:395,
-  image:"/src/assets/Products/spidermantote.jpg",
+  image:"/products/spidermantote.jpg",
   stock:true,
   details:{
     material:"Canvas",
@@ -380,7 +380,7 @@ const products = [
   category:"Keychains",
   price:46,
   oldPrice:60,
-  image:"/src/assets/Products/spidey.jpg",
+  image:"/products/spidey.jpg",
   stock:true,
   details:{
     material:"Acrylic",
@@ -397,7 +397,7 @@ const products = [
   category:"Coasters",
   price:175,
   oldPrice:210,
-  image:"/src/assets/Products/strangerthings.jpg",
+  image:"/products/strangerthings.jpg",
   stock:true,
   details:{
     material:"Wood",
@@ -414,7 +414,7 @@ const products = [
   category:"Keychains",
   price:39,
   oldPrice:55,
-  image:"/src/assets/Products/sunflower.jpg",
+  image:"/products/sunflower.jpg",
   stock:true,
   details:{
     material:"Acrylic",
@@ -431,7 +431,7 @@ const products = [
   category:"Tote Bags",
   price:329,
   oldPrice:379,
-  image:"/src/assets/Products/sunflowertote.jpg",
+  image:"/products/sunflowertote.jpg",
   stock:true,
   details:{
     material:"Canvas",
@@ -448,7 +448,7 @@ const products = [
   category:"Tote Bags",
   price:390,
   oldPrice:435,
-  image:"/src/assets/Products/tuliptote.jpg",
+  image:"/products/tuliptote.jpg",
   stock:true,
   details:{
     material:"Canvas",
@@ -465,7 +465,7 @@ const products = [
   category:"Painted Bottles",
   price:255,
   oldPrice:300,
-  image:"/src/assets/Products/watermelon.jpg",
+  image:"/products/watermelon.jpg",
   stock:true,
   details:{
     material:"Glass Bottle",
@@ -482,7 +482,7 @@ const products = [
   category:"Painted Bottles",
   price:355,
   oldPrice:400,
-  image:"/src/assets/Products/meowbottle.jpg",
+  image:"/products/meowbottle.jpg",
   stock:true,
   details:{
     material:"Glass Bottle",
@@ -499,7 +499,7 @@ const products = [
   category:"Fridge Magnets",
   price:49,
   oldPrice:65,
-  image:"/src/assets/Products/happy.jpg",
+  image:"/products/happy.jpg",
   stock:true,
   details:{
     material:"Wood",
@@ -516,7 +516,7 @@ const products = [
   category:"Mini Canvas",
   price:300,
   oldPrice:340,
-  image:"/src/assets/Products/Evileye_Minicanvas.jpg",
+  image:"/products/Evileye_Minicanvas.jpg",
   stock:true,
   details:{
     material:"Canvas",
@@ -533,7 +533,7 @@ const products = [
   category:"Wall Hangings",
   price:99,
   oldPrice:125,
-  image:"/src/assets/Products/animal_hanger.jpg",
+  image:"/products/animal_hanger.jpg",
   stock:true,
   details:{
     material:"MDF Wood",
@@ -550,7 +550,7 @@ const products = [
   category:"Wall Hangings",
   price:175,
   oldPrice:205,
-  image:"/src/assets/Products/life_hanger.jpg",
+  image:"/products/life_hanger.jpg",
   stock:true,
   details:{
     material:"MDF Wood",
@@ -567,7 +567,7 @@ const products = [
   category:"Wall Hangings",
   price:155,
   oldPrice:185,
-  image:"/src/assets/Products/maadurga_hanger.jpg",
+  image:"/products/maadurga_hanger.jpg",
   stock:true,
   details:{
     material:"MDF Wood",
@@ -584,7 +584,7 @@ const products = [
   category:"Wall Hangings",
   price:120,
   oldPrice:145,
-  image:"/src/assets/Products/itachiuchiha.jpg",
+  image:"/products/itachiuchiha.jpg",
   stock:true,
   details:{
     material:"MDF Wood",
@@ -601,7 +601,7 @@ const products = [
   category:"Thali Art",
   price:300,
   oldPrice:340,
-  image:"/src/assets/Products/birthday_thaliart.jpg",
+  image:"/products/birthday_thaliart.jpg",
   stock:true,
   details:{
     material:"Steel Thali",
@@ -618,7 +618,7 @@ const products = [
   category:"Thali Art",
   price:390,
   oldPrice:435,
-  image:"/src/assets/Products/lotus_thaliset.jpg",
+  image:"/products/lotus_thaliset.jpg",
   stock:true,
   details:{
     material:"Steel Thali Set",
@@ -635,7 +635,7 @@ const products = [
   category:"Paper Bouquets",
   price:90,
   oldPrice:115,
-  image:"/src/assets/Products/pinktulip_bouquet.jpg",
+  image:"/products/pinktulip_bouquet.jpg",
   stock:true,
   details:{
     material:"Artificial Flowers",
@@ -652,7 +652,7 @@ const products = [
   category:"Paper Bouquets",
   price:85,
   oldPrice:110,
-  image:"/src/assets/Products/orangetulip_bouquet.jpg",
+  image:"/products/orangetulip_bouquet.jpg",
   stock:true,
   details:{
     material:"Artificial Flowers",
@@ -669,7 +669,7 @@ const products = [
   category:"Custom Gifts",
   price:80,
   oldPrice:105,
-  image:"/src/assets/Products/customised_bookmark.jpg",
+  image:"/products/customised_bookmark.jpg",
   stock:true,
   details:{
     material:"Premium Laminated Card",
@@ -686,7 +686,7 @@ const products = [
   category:"Custom Gifts",
   price:499,
   oldPrice:549,
-  image:"/src/assets/Products/custom_phonecover.jpg",
+  image:"/products/custom_phonecover.jpg",
   stock:true,
   details:{
     material:"Hard Case",
@@ -703,7 +703,7 @@ const products = [
   category:"Bookmarks",
   price:89,
   oldPrice:110,
-  image:"/src/assets/Products/mandala.jpg",
+  image:"/products/mandala.jpg",
   stock:true,
   details:{
     material:"Laminated Paper",
@@ -720,7 +720,7 @@ const products = [
   category:"Bookmarks",
   price:75,
   oldPrice:95,
-  image:"/src/assets/Products/goose.jpg",
+  image:"/products/goose.jpg",
   stock:true,
   details:{
     material:"Laminated Paper",
@@ -737,7 +737,7 @@ const products = [
   category:"Bookmarks",
   price:60,
   oldPrice:85,
-  image:"/src/assets/Products/uchiha.jpg",
+  image:"/products/uchiha.jpg",
   stock:true,
   details:{
     material:"Laminated Paper",
@@ -754,7 +754,7 @@ const products = [
   category:"Coasters",
   price:195,
   oldPrice:225,
-  image:"/src/assets/Products/self_coaster.jpg",
+  image:"/products/self_coaster.jpg",
   stock:true,
   details:{
     material:"MDF Wood",
@@ -771,7 +771,7 @@ const products = [
   category:"Bookmarks",
   price:125,
   oldPrice:155,
-  image:"/src/assets/Products/starry_night.jpg",
+  image:"/products/starry_night.jpg",
   stock:true,
   details:{
     material:"Laminated Paper",
